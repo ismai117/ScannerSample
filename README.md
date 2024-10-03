@@ -1,14 +1,13 @@
-<h1>KScan</h1></br>
+# KScan
 
 KMP - Barcode Scanner
 
-# Platforms
+## Platforms
 
-- Android - MLKIT (https://developers.google.com/ml-kit/vision/barcode-scanning)
-- Ios - CodeScanner (https://github.com/twostraws/CodeScanner)
-</br>
+- Android - [MLKIT](https://developers.google.com/ml-kit/vision/barcode-scanning)
+- iOS - [CodeScanner](https://github.com/twostraws/CodeScanner)
 
 <p align="center">
-![android-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fb855aa5-1a6b-4d20-be2d-556666f6d77b)
-![iphone-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bcf8071d-0366-4ccd-8a9e-2a7fbd73061e)
+  <img src="https://github.com/user-attachments/assets/fb855aa5-1a6b-4d20-be2d-556666f6d77b" alt="Android Barcode Scanner GIF" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bcf8071d-0366-4ccd-8a9e-2a7fbd73061e" alt="iPhone Barcode Scanner GIF" width="400"/>
 </p>
